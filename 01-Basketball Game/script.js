@@ -24,3 +24,8 @@ if (scoreJohn > scoreMike && scoreJohn > scoreMary) {
 } else {
     console.log('There is a draw');
 }
+
+
+
+
+
